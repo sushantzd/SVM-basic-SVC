@@ -24,7 +24,7 @@ Pandas: For data manipulation and handling.
 * Dataset Preparation: Loaded and split the dataset into training and testing sets.
   
 * SVM Model Training: Implemented a basic SVM model with default parameters.
-* 
+
 * Hyperparameter Tuning:
 Grid Search: Performed an exhaustive search over specified parameter values.
 Randomized Search: Explored a random subset of hyperparameters.
